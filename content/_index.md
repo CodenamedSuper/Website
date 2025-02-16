@@ -1,5 +1,8 @@
 +++
-title = 'Hello'
-date = 2025-02-16T13:35:38+02:00
-draft = true
+[paige.pages]
+disable_collections = true
+disable_pages = true
+disable_sections = true
 +++
+
+# Hello, world!
